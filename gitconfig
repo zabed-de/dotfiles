@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = zabed.de@gmail.com
+	name = Zabed K
